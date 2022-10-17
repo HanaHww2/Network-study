@@ -10,8 +10,8 @@ date|contents|assignee
 2022.10.19|Process Management|[@HanaHww2](https://github.com/HanaHww2)
 
 
-17 월 - 춘, 월
-18 화 - 남, 또
-19 수 - 흐, 월
-20 목 - 또, 춘
-21 금 - 남, 흐
+월 - 춘 월,
+화 - 남 또,
+수 - 흐 월,
+목 - 또 춘,
+금 - 남 흐
