@@ -14,4 +14,3 @@ date|contents|assignee
 화 18- 남 흐,
 수 19- 춘, 흐,
 목 20- 남 월
-금 21- 
