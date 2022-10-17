@@ -1,5 +1,5 @@
 # Network-study
-[따라하면서 배우는 IT 강의](https://www.youtube.com/playlist?list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi)를 기반으로 진행되는 스터디입니다.
+[따라하면서 배우는 IT 네트워크 강의](https://www.youtube.com/playlist?list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi)를 기반으로 진행되는 스터디입니다.
 
 
 ### Study information table
