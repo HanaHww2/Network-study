@@ -10,7 +10,7 @@ date|contents|assignee
 2022.10.19|[03. 2계층: Local Area Network 통신 방법](https://github.com/Growth-Collectors/Network-study/blob/main/03.%202%EA%B3%84%EC%B8%B5:%20%EA%B0%80%EA%B9%8C%EC%9D%B4%20%EC%9E%88%EB%8A%94%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md)|[@jioome](https://github.com/jioome), [@Tldkt](https://github.com/Tldkt)
 2022.10.24|[04. ip: Remote Network 통신 방법](https://github.com/Growth-Collectors/Network-study/blob/main/04.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B3%84%EC%B8%B5.md)|[@namnameeroo](https://github.com/namnameeroo),[@Tldkt](https://github.com/Tldkt)
 2022.10.25|[05. ARP 프로토콜](https://github.com/Growth-Collectors/Network-study/blob/main/05.%20ARP%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C.md)|[@HanaHww2](https://github.com/HanaHww2),[@jioome](https://github.com/jioome)
-2022.10.26|[06. P 프로토콜](https://github.com/Growth-Collectors/Network-study/blob/main/06.%20%EB%A9%80%EB%A6%AC%20%EC%9E%88%EB%8A%94%20%EC%BB%B4%ED%93%A8%ED%84%B0%EB%81%BC%EB%A6%AC%EC%9D%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%86%A1.md)|[@namnameeroo](https://github.com/namnameeroo), [@Tldkt](https://github.com/Tldkt)
+2022.10.26|[06. IP 프로토콜](https://github.com/Growth-Collectors/Network-study/blob/main/06.%20%EB%A9%80%EB%A6%AC%20%EC%9E%88%EB%8A%94%20%EC%BB%B4%ED%93%A8%ED%84%B0%EB%81%BC%EB%A6%AC%EC%9D%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%86%A1.md)|[@namnameeroo](https://github.com/namnameeroo), [@Tldkt](https://github.com/Tldkt)
 
 
 
