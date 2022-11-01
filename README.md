@@ -13,7 +13,7 @@ date|contents|assignee
 2022.10.26|[06. IP 프로토콜](https://github.com/Growth-Collectors/Network-study/blob/4c4c679eb5fe8f06cdec06f07eab6b6ba784172f/06-1.%20%EB%A9%80%EB%A6%AC%20%EC%9E%88%EB%8A%94%20%EC%BB%B4%ED%93%A8%ED%84%B0%EB%81%BC%EB%A6%AC%EC%9D%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%86%A1.md)|[@namnameeroo](https://github.com/namnameeroo), [@Tldkt](https://github.com/Tldkt)
 2022.10.31|[07. 4계층 ](https://github.com/Growth-Collectors/Network-study/blob/main/07.%204%EA%B3%84%EC%B8%B5%20%EC%9D%B4%EB%A1%A0%20-%20%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EB%81%BC%EB%A6%AC%EB%8A%94%20%EC%9D%B4%EB%A0%87%EA%B2%8C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EC%A3%BC%EA%B3%A0%20%EB%B0%9B%EB%8A%94%EB%8B%A4.md)|[@jioome](https://github.com/jioome), [@Tldkt](https://github.com/Tldkt)
 2022.11.01|08. UDP 프로토콜| [@HanaHww2](https://github.com/HanaHww2)
-2022.11.01|[09. TCP 프로토콜]()| [@namnameeroo](https://github.com/namnameeroo)
+2022.11.01|[09. TCP 프로토콜](https://github.com/Growth-Collectors/Network-study/blob/baa726d87983b082bd6eec1871825c934fda22b1/09.%20%20%EC%97%B0%EA%B2%B0%EC%A7%80%ED%96%A5%ED%98%95%20TCP%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C.md)| [@namnameeroo](https://github.com/namnameeroo)
 
 
 
