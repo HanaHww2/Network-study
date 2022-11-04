@@ -15,7 +15,7 @@ date|contents|assignee
 2022.11.01|[08. UDP 프로토콜](https://github.com/Growth-Collectors/Network-study/blob/5f44fc4aeca2fa7b6350955d54ccf4fc430b6cb9/08.%20UDP%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C.md)| [@HanaHww2](https://github.com/HanaHww2)
 2022.11.01|[09. TCP 프로토콜](https://github.com/Growth-Collectors/Network-study/blob/main/09.%20%20%EC%97%B0%EA%B2%B0%EC%A7%80%ED%96%A5%ED%98%95%20TCP%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C.md)|[@jioome](https://github.com/jioome), [@namnameeroo](https://github.com/namnameeroo)
 
-
+2022.11.04|[08. UDP 프로토콜]()| [@HanaHww2](https://github.com/HanaHww2)
 
 1 화 - 흐, 냠
 2 수- 월, 춘
