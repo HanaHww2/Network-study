@@ -15,6 +15,4 @@ date|contents|assignee
 2022.11.01|[08. UDP 프로토콜](https://github.com/Growth-Collectors/Network-study/blob/5f44fc4aeca2fa7b6350955d54ccf4fc430b6cb9/08.%20UDP%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C.md)| [@HanaHww2](https://github.com/HanaHww2)
 2022.11.01|[09. TCP 프로토콜](https://github.com/Growth-Collectors/Network-study/blob/main/09.%20%20%EC%97%B0%EA%B2%B0%EC%A7%80%ED%96%A5%ED%98%95%20TCP%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C.md)|[@jioome](https://github.com/jioome), [@namnameeroo](https://github.com/namnameeroo), [@HanaHww2](https://github.com/HanaHww2)
 2022.11.04|[10. NAT와 포트포워딩](https://github.com/Growth-Collectors/Network-study/blob/52ddbe0897838bd17c74fad22c35aba2470c1354/10.%20NAT%EC%99%80%20%ED%8F%AC%ED%8A%B8%ED%8F%AC%EC%9B%8C%EB%94%A9.md)| [@HanaHww2](https://github.com/HanaHww2)
-
-
-
+2022.11.08|[11. HTTP/HTTPS]()| [@jioome](https://github.com/jioome), [@namnameeroo](https://github.com/namnameeroo), [@Tldkt](https://github.com/Tldkt), [@HanaHww2](https://github.com/HanaHww2)
